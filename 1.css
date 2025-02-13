@@ -1,0 +1,45 @@
+h2{
+    font-size: 80px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color:#231751;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eaeaea;
+}
+img{
+    display: block;
+    width: 55px;
+    padding: 10px;
+}
+span{
+    font-size: 30px;
+    margin-right: 40px;
+    display: block;
+    padding :20px;
+    color: #231751;
+}
+.bt1{
+    margin-top: 35px;
+    margin-left: 10px ;
+    border: none;
+    background-color: #bc2229;
+    color: white;
+    border-radius: 10px;
+    width: 300px;
+    height: 80px;
+    font-size: 30px;
+}
+.bt2{
+    margin-left: 20px;
+    border-radius: 10px;
+    width: 400px;
+    height: 80px;
+    font-size: 30px;
+    color: #231751;
+    border: 1px solid #231751;
+}
+button{
+    padding: 20px;
+}

@@ -1,0 +1,21 @@
+div{
+    border: 1px solid #c1bcd1;
+    width: 400px;
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px #f2f1f5 ;
+}
+.p1{
+    font-size: 30px;
+    color: #bc2229;
+    display: grid;
+    margin-top: 0 ;
+    font-weight: 300;
+}
+.p2{
+    font-size: 23px;
+    margin-bottom: 30px;
+}

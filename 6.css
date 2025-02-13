@@ -1,0 +1,35 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.bigdiv{
+    border-radius: 5px ;
+    border: 2px solid #d3e3fd;
+}
+.bigdiv div{
+    color: #153b72 ;
+    padding-top:40px;
+    margin-top: 50px;
+    height: 80px;
+    background-color: #d0e2ff;
+}
+.p1{
+    height: 30px;
+    margin-bottom: 40px;
+}
+.p4{
+    border-top:  2px solid #d3e3fd;
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+.sp1{
+    position: absolute;
+    right: 20px;
+}
+.sp2{
+    position: absolute;
+    right: 20px;
+}
+.p3 span{
+    color: #da4790;
+}
